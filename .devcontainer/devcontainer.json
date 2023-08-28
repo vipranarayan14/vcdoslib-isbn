@@ -11,7 +11,8 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"donjayamanne.git-extension-pack"
+				"donjayamanne.git-extension-pack",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
