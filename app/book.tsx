@@ -1,6 +1,5 @@
 "use client";
 
-import styles from "./page.module.css";
 import { FC, FormEvent, useState } from "react";
 import { BookInfo } from "./bookInfo";
 
